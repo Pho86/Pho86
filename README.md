@@ -1,5 +1,5 @@
-# 🙏❄️
-**Hello world**, I'm an aspiring front-end developer, who's passionate about providing seamless experiences to users for both web and mobile design.
+# *Hello world*
+I'm an aspiring front-end developer, who's passionate about providing seamless experiences to users for both web and mobile design.
 
 ## Technologies and Tools
 ### Languages
