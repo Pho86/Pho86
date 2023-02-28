@@ -1,18 +1,6 @@
 # *Hello world*
 I'm an aspiring front-end developer, who's passionate about providing seamless experiences to users for both web and mobile design.
 
-<p align="center" style="padding-top: 10px;">
-    <a href="https://www.philipho.me/">
-        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
-    </a>
-    <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
-    </a>
-  <a href="mailto:philip03ho@gmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
-        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
-    </a>
-</p>
-
 ## Technologies and Tools
 
 ### Frameworks & Front End
@@ -56,7 +44,19 @@ I'm an aspiring front-end developer, who's passionate about providing seamless e
 
 <hr/>
 
+### Connect with me
 
+<p style="padding-top: 10px;">
+    <a href="https://www.philipho.me/">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
+    </a>
+    <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+  <a href="mailto:philip03ho@gmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
+        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+</p>
 
 <!--
 **Pho86/Pho86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
