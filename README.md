@@ -40,7 +40,7 @@ I'm an aspiring front-end developer, who's passionate about providing seamless e
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pho86&hide=gdscript&theme=dracula)](https://github.com/pho86/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pho86&hide=gdscript&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
