@@ -1,6 +1,18 @@
 # *Hello world*
 I'm an aspiring front-end developer, who's passionate about providing seamless experiences to users for both web and mobile design.
 
+<p align="center" style="padding-top: 10px;">
+    <a href="https://www.philipho.me/">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
+    </a>
+    <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+  <a href="mailto:philip03ho@gmail.com?subject=Mail via GitHub Profile" style="margin-left: 20px;">
+        <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
+    </a>
+</p>
+
 ## Technologies and Tools
 
 ### Frameworks & Front End
@@ -37,6 +49,13 @@ I'm an aspiring front-end developer, who's passionate about providing seamless e
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pho86&hide=gdscript&theme=dracula)](https://github.com/pho86/github-readme-stats)
+
+<hr/>
+
 
 
 <!--
