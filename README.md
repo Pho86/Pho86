@@ -1,5 +1,5 @@
 # *Hello world*
-I'm an aspiring front-end developer, who's passionate about providing seamless experiences to users for both web and mobile design.
+Hi, I'm an aspiring front end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm  also passionate about building interactive and intuitive adventures.
 
 ## Technologies and Tools
 
