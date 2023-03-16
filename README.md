@@ -1,5 +1,5 @@
 # *Hello world*
-Hi, I'm an aspiring front end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm  also passionate about building interactive and intuitive adventures.
+Hi, I'm a front-end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm  also passionate about building interactive and intuitive adventures.
 
 ## Technologies and Tools
 
