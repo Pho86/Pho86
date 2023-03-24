@@ -1,5 +1,5 @@
 # *Hello world*
-I'm a front-end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm  also passionate about building interactive and intuitive adventures.
+I'm a front-end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm also passionate about building interactive and intuitive adventures.
 
 ## Technologies and Tools
 
@@ -19,7 +19,6 @@ I'm a front-end developer developing for both web and mobile platforms with a fo
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
 
 
 ### Databases
@@ -57,3 +56,4 @@ I'm a front-end developer developing for both web and mobile platforms with a fo
         <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
     </a>
 </p>
+
