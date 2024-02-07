@@ -46,7 +46,7 @@ I'm a front-end developer developing for both web and mobile platforms with a fo
 ### Connect with me
 
 <p style="padding-top: 10px;">
-    <a href="https://www.philipho.me/">
+    <a href="https://www.philiph.me/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
     </a>
     <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
