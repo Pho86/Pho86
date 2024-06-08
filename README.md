@@ -52,7 +52,7 @@ I'm a front-end developer developing for both web and mobile platforms with a fo
     <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" />
     </a>
-  <a href="mailto:philip03ho@gmail.com?subject=Email via GitHub Profile" style="margin-left: 20px;">
+  <a href="mailto:philip.huyho@gmail.com?subject=Email via GitHub Profile" style="margin-left: 20px;">
         <img alt="Email" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer" />
     </a>
 </p>
