@@ -1,5 +1,5 @@
 # *Hello world*
-I'm a front-end developer developing for both web and mobile platforms with a focus on providing users with seamless and responsive experiences. I'm also passionate about building interactive and intuitive adventures.
+I'm a software developer, creating interactive and intuitive adventures digitally. I develop and script for web and mobile applications with a focus on providing users with seamless and responsive experiences. Creating interactive digital products is one of my passions and am constantly seeking out challenges to improve myself.
 
 ## Technologies and Tools
 
