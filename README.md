@@ -1,5 +1,5 @@
 # *Hello world*
-I'm a software developer, creating interactive and intuitive adventures digitally. I develop and script for web and mobile applications with a focus on providing users with seamless and responsive experiences. I'm constantly seeking out challenges to improve myself.
+I'm a full-stack developer, creating interactive and intuitive adventures digitally. I develop and script for web and mobile applications with a focus on providing users with seamless and responsive experiences. I'm constantly seeking out challenges to improve myself.
 
 ## Technologies and Tools
 
@@ -46,7 +46,7 @@ I'm a software developer, creating interactive and intuitive adventures digitall
 ### Connect with me
 
 <p style="padding-top: 10px;">
-    <a href="https://www.philiph.me/">
+    <a href="https://www.philipho.co/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
     </a>
     <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
