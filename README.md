@@ -46,7 +46,7 @@ I'm a full-stack developer, creating interactive and intuitive adventures digita
 ### Connect with me
 
 <p style="padding-top: 10px;">
-    <a href="https://www.philipho.co/">
+    <a href="https://www.philipho.xyz/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" rel="noopener noreferrer" />
     </a>
     <a href="https://www.linkedin.com/in/philippho/" style="margin-left: 20px;">
